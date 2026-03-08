@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a 2D arcade shooter inspired by the classic Chicken Invaders style, where players build and upgrade their own spaceship to survive increasingly harder waves of enemy chickens.
+This project uses the OpenGL API as the core graphics API and is a 2D arcade shooter inspired by the classic Chicken Invaders style, where players build and upgrade their own spaceship to survive increasingly harder waves of enemy chickens.
 
 ---
 
