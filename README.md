@@ -50,3 +50,26 @@ With custom ship construction, continuous upgrades, and escalating difficulty, t
 The core game logic, ship building system, and gameplay mechanics were implemented by me.
 
 The project uses a game framework provided by the EGC team from UPB - Faculty of Automatic Control and Computer Science as the base for building the game.
+
+---
+
+## How to Run
+
+Install dependencies, clone the repository, build the project, and run the game using the following commands:
+
+```bash
+sudo apt update
+sudo apt install build-essential cmake libglew-dev libglfw3-dev libassimp-dev libspdlog-dev libfreetype6-dev pkg-config
+
+git clone https://github.com/your-username/2D-Game-Chicken-Invaders-C++.git
+cd 2D-Game-Chicken-Invaders-C++
+
+mkdir build
+cd build
+
+cmake ..
+cmake --build .
+
+./bin/Debug/GFXFramework
+```
+
