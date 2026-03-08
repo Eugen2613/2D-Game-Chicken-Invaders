@@ -42,3 +42,11 @@ After completing each level, players can access an upgrade system that allows th
 ## Summary
 
 With custom ship construction, continuous upgrades, and escalating difficulty, the game combines arcade action with light strategy, encouraging players to experiment with different ship designs to defeat the ever-growing chicken invasion.
+
+---
+
+## Code Attribution
+
+The core game logic, ship building system, and gameplay mechanics were implemented by me.
+
+The project uses a game framework provided by my university as the base for building the game.
