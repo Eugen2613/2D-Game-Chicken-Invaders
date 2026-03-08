@@ -29,13 +29,13 @@ Every level consists of multiple waves of attacking chickens, requiring quick mo
 
 As players progress, enemy difficulty gradually increases, introducing tougher waves and greater challenges.
 
+<img width="1296" height="764" alt="image" src="https://github.com/user-attachments/assets/236e33c3-102c-4d9d-904e-b9ae3392b4ea" />
+
 ---
 
 ## Upgrade System
 
 After completing each level, players can access an upgrade system that allows them to improve their ship, by adding additional components to their ship.
-
-<img width="1296" height="764" alt="image" src="https://github.com/user-attachments/assets/236e33c3-102c-4d9d-904e-b9ae3392b4ea" />
 
 ---
 
