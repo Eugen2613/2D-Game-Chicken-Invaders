@@ -49,4 +49,4 @@ With custom ship construction, continuous upgrades, and escalating difficulty, t
 
 The core game logic, ship building system, and gameplay mechanics were implemented by me.
 
-The project uses a game framework provided by my university as the base for building the game.
+The project uses a game framework provided by the EGC team from UPB - Faculty of Automatic Control and Computer Science as the base for building the game.
